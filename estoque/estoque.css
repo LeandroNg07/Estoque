@@ -1,0 +1,16 @@
+header{
+    background-color: brown;
+}
+.titulo{
+    text-align: center;
+}
+.botoes{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+button{
+    width: 100px;
+    margin-right: 10px;
+    color: rgb(90, 84, 84);
+}
