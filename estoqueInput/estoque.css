@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: brown;
+}
+body{
+    background-color: beige;
+}
+.titulo{
+    
+     margin-left: auto;
+     margin-right: auto;
+}
+.botoes{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 70px;
+    
+    color: rgb(90, 84, 84);
+}
+.divInput{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 20px;
+}
+div{
+    width: 70px;
+}
+.tudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 52%;
+    height: 500px;
+    
+
+    border: 2px solid black;
+
+}
+.but{
+    margin-right: 60px;
+}
+.alerta{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+.alertinput{
+    height: 40px;
+}
+.removeb{
+    width: 400px
+}
